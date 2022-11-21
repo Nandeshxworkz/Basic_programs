@@ -1,6 +1,8 @@
 package com.xworkz.basicprograms;
 
-public class ArrayAscending {
+import java.util.Arrays;
+
+public class ArrayAscendingOrBubleSort {
 
 	public static void main(String[] args) {
 
@@ -19,6 +21,8 @@ public class ArrayAscending {
          System.out.print(arr1[i]+" ");
          
 		}
+//		System.out.println();
+//		System.out.print(Arrays.toString(arr1));
 	}
 
 }
