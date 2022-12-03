@@ -24,9 +24,7 @@ public class CompareToArrays {
 			System.out.println("Arrays are equal");
 		}else {
 			System.out.println("Arrays are not equal");
-		}
-		
-		
+		}	
 	}
 
 }
