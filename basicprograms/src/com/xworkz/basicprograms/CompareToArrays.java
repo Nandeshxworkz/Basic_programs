@@ -5,7 +5,7 @@ public class CompareToArrays {
 	public static void main(String[] args) {
 
 		int[] a= {1,2,3,4};
-		int[] b= {1,2,9,4};
+		int[] b= {1,2,3,4};
 		
 		boolean result=true;
 		if(a.length==b.length) {
